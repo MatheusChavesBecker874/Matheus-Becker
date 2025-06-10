@@ -12,7 +12,7 @@ Config files for my GitHub profile.
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Computer Science at CESAR School Recife<br>🌍 i'm fluent in Portuguese and English<br>🎮 I'm a calm guy who loves playing and making video games<br>💼  Check my profile to see the projects i have worked on.</p>
+<p align="left">✨ Creating bugs since 2023.<br>📚 I'm currently learning Computer Science at CESAR School Recife.<br>🌍 i'm fluent in Portuguese and English.<br>🎮 I'm a calm guy who loves playing and making video games.<br>💼  Check my profile to see the projects i have worked on.<br>Contact me on: www.linkedin.com/in/matheus-chaves-becker-2345b036a or matheuschavesbecker@gmail.com</p>
 
 ###
 
